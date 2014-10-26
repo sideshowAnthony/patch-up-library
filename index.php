@@ -3,6 +3,9 @@
 <body>
 <?php
 
+// This is a test file.
+echo "old";
+
 function __autoload($className){
 	require_once("./$className.php");
 }

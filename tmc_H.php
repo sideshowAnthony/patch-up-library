@@ -1,5 +1,8 @@
 <?php
 
+// General purpose HTML generator
+// Class name is shortened so it can be placed easily inline with HTML
+
 class tmc_H{
 
 	public static function wrap($tag, $str){

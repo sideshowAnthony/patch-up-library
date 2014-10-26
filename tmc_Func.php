@@ -1,5 +1,8 @@
 <?php
 
+// General purpose functions
+
+
 class tmc_Func{
 
 	// Converts foo-bar-%-2 to FooBar2
